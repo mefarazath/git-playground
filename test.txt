@@ -1,0 +1,9 @@
+This is a test text.
+This has a text <<changed>>.
+Adding new line.
+Adding another new line.
+
+
+
+oops another line  <<changed>>>.
+another one.
